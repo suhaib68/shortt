@@ -1,9 +1,7 @@
 package short
 
-import (
-	"fmt"
-)
+import "fmt"
 
-func short(strg string) {
-	fmt.Println(strg)
+func pick() {
+	fmt.Println("hi")
 }
