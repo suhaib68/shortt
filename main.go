@@ -4,6 +4,6 @@ import "fmt"
 
 const Hi = "welcome to test package"
 
-func pick() {
+func Pick() {
 	fmt.Println("hi")
 }
